@@ -18,6 +18,7 @@ A responsive landing page with multiple sections that can be scrolled through an
 Clone this repo:
    ```bash
    git clone https://github.com/osaidhamidi/landingpage.git
+```
 
 ## Dependencies
 - HTML, JavaScript, and CSS
