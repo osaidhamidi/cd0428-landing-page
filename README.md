@@ -17,7 +17,7 @@ A responsive landing page with multiple sections that can be scrolled through an
 
 Clone this repo:
    ```bash
-   git clone https://github.com/osaidhamidi/landingpage.git
+   git clone https://github.com/osaidhamidi/cd0428-landing-page.git
 ```
 
 ## Dependencies
