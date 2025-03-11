@@ -24,7 +24,7 @@ Clone this repo:
 - HTML, JavaScript, and CSS
 
 ## File Structure
-
+```
 ├── CODEOWNERS
 ├── LICENSE.txt
 ├── README.md
@@ -33,6 +33,7 @@ Clone this repo:
 ├── index.html
 └── js
     └── app.js
+```
 
 - index,html : html structure
 - styles.css : styling code
