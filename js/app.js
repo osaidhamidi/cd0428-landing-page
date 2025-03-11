@@ -124,5 +124,3 @@ navList.addEventListener('click', scrollToAnchor);
 
 // Update active section while scrolling
 document.addEventListener('scroll', makeActive);
-
-document.addEventListener('scroll', checkActiveSection);
