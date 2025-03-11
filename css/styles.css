@@ -88,6 +88,9 @@ section {
     transition: ease 0.3s all;
 }
 
+
+
+
 /* Header Styles */
 .page__header {
     background: #fff;
@@ -220,4 +223,9 @@ section.your-active-class .landing__container::after {
 		           translate(-1em) 
 		           rotate(-360deg);
 	}
+}
+
+.navbar__menu .menu__link.active {
+    background-color: #00f7e6;  
+    color: #ffffff;
 }
